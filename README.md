@@ -1,4 +1,4 @@
-### Hi there 👋
+### 路边一条 🐶
 
 <!--
 **NytePlus/NytePlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Currently working on **test generation** of mobile apps.
-- 💻 Basically a **full-stack developer**.
-- 💡 Interested in **** and **Software Testing**.
+- 🔭 Currently working on **agent** of mobile apps.
+- 💻 Basically a **学软件的傻瓜**.
+- 💡 Interested in **Distributed System** and **Deep Learning**.
 - 📫 How to reach me: Email me at `nyte_plus` **AT** `smail` **DOT** `sjtu` **DOT** `edu` **DOT** `cn`
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
