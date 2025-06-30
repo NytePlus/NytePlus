@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 - 🔭 Currently working on **test generation** of mobile apps.
 - 💻 Basically a **full-stack developer**.
-- 💡 Interested in **GUI Automation** and **Software Testing**.
+- 💡 Interested in **** and **Software Testing**.
 - 📫 How to reach me: Email me at `nyte_plus` **AT** `smail` **DOT** `sjtu` **DOT** `edu` **DOT** `cn`
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NytePlus&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=10" alt="NytePlus's GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@NytePlus&layout=compact&langs_count=10&theme=transparent&show_icons=true&hide_border=true" alt="NytePlus's WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NytePlus&show_icons=true&theme=transparent" alt="NytePlus's WakaTime Stats" />
 </div>
