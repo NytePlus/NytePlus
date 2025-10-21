@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Currently working on **Kuaishou** HDFS Internship.
+- 🔭 Currently working on **SJTU**.
 - 💻 Basically a **学软件的傻瓜**.
 - 💡 Interested in **Distributed System** and **Deep Learning**.
 - 📫 How to reach me: Email me at `nyte_plus@sjtu.edu.cn`
