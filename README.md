@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 Currently working on **SJTU**.
 - 💻 Basically a **学软件的傻瓜**.
-- 💡 Interested in **Distributed System** and **Deep Learning**.
+- 💡 Interested in **Distributed System** and **Context ASR**.
 - 📫 How to reach me: Email me at `nyte_plus@sjtu.edu.cn`
 
 ### Languages and Tools
