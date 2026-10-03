@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 
 <!-- <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/617px-Kubernetes_logo_without_workmark.svg.png"/></code> -->
-<code><img height="50" src="https://github.com/user-attachments/assets/d10c75a7-3419-44b4-833f-c94d63f4a49c"/></code>
 <code><img height="50" src="https://github.com/user-attachments/assets/de491589-c422-499f-8aca-862f2fe04e38"/></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/frameworks/spring.svg"></code>
